@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertString", "InsertString\InsertString.csproj", "{EA7C40E2-8D82-4179-ACD5-10CF12843CAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLength", "StringLength\StringLength.csproj", "{F24DF237-B1BE-4B5C-AF04-48067F164780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EA7C40E2-8D82-4179-ACD5-10CF12843CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA7C40E2-8D82-4179-ACD5-10CF12843CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA7C40E2-8D82-4179-ACD5-10CF12843CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24DF237-B1BE-4B5C-AF04-48067F164780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24DF237-B1BE-4B5C-AF04-48067F164780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24DF237-B1BE-4B5C-AF04-48067F164780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24DF237-B1BE-4B5C-AF04-48067F164780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
