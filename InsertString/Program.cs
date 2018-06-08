@@ -4,9 +4,11 @@ namespace InsertString
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string str = " Welcome to Csharpstar";
+            string insstr = " World !!!";
+            Console.WriteLine(str.Insert(22,insstr));
         }
     }
 }
