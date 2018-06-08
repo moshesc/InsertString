@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertString", "InsertStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLength", "StringLength\StringLength.csproj", "{F24DF237-B1BE-4B5C-AF04-48067F164780}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompare", "StringCompare\StringCompare.csproj", "{3695D006-6C18-4907-91DC-4F0D8F353421}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F24DF237-B1BE-4B5C-AF04-48067F164780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24DF237-B1BE-4B5C-AF04-48067F164780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24DF237-B1BE-4B5C-AF04-48067F164780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3695D006-6C18-4907-91DC-4F0D8F353421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3695D006-6C18-4907-91DC-4F0D8F353421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3695D006-6C18-4907-91DC-4F0D8F353421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3695D006-6C18-4907-91DC-4F0D8F353421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
